@@ -1,4 +1,4 @@
-import cirq
+import cirqy
 import numpy as np
 from cirq import Circuit
 from cirq.devices import GridQubit
